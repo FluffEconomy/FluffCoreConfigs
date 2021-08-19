@@ -1,0 +1,8 @@
+Hats:
+  BirthdayHat:
+    CustomModel: 14
+    Name: "Grand Reopening Hat"
+    Lore:
+      - "&r"
+      - "Gotten from the August 2021"
+      - "&r"
