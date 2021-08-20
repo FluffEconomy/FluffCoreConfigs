@@ -1,9 +1,36 @@
 # Command: fluffcore hats HatName UserName
 Hats:
-  BirthdayHat:
+  Cake:
     CustomModel: 14
-    Name: "Grand Reopening Hat"
+    Name: "&d&lGrand Reopening Hat"
     Lore:
       - "&r"
-      - "Gotten from the August 2021"
+      - "&fGotten from the August 2021"
+      - "&fReopening Quest!"
       - "&r"
+  Cat:
+    CustomModel: 15
+    Name: "&e&lCuddly Kitty Cat Hat"
+    Lore:
+      - "&r"
+      - "&fA nice cuddly kitty cat"
+      - "&fto sit in your hand or head!"
+      - "&r"
+  Strawberry:
+    CustomModel: 16
+    Name: "&e&lStrawberry Hat"
+    Lore:
+      - "&r"
+      - "&fEver feel like your life doesn''t have"
+      - "&fenough strawberries? Try wearing one!"
+      - "&r"
+  Egg:
+    CustomModel: 17
+    Name: "&e&lEgg Hat"
+    Lore:
+      - "&r"
+      - "&fWhat better than Scrambled?"
+      - "&fOvereasy & Sunny Side Up!"
+      - "&r"
+      
+      
