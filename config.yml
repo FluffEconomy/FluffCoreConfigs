@@ -4,6 +4,7 @@ Hats:
     CustomModel: 14
     Name: "&d&lGrand Reopening Hat"
     TranslatableKey: "fluffCore.cakeHat"
+    TranslatableKeyDesc: "fluffCore.cakeHatDesc"
     Lore:
       - "&r"
       - "&fGotten from the 2021"
