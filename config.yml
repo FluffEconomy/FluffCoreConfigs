@@ -24,7 +24,7 @@ Hats:
     CustomModel: 16
     Name: "&e&lStrawberry Hat"
     TranslatableKey: "fluffCore.strawberryHat"
-    ranslatableKeyDesc: "fluffCore.strawberryHatDesc"
+    TranslatableKeyDesc: "fluffCore.strawberryHatDesc"
     Lore:
       - "&r"
       - "&fEver feel like your life doesn't have"
@@ -34,7 +34,7 @@ Hats:
     CustomModel: 17
     Name: "&e&lEgg Hat"
     TranslatableKey: "fluffCore.eggHat"
-    TranslatableKey: "fluffCore.eggHatDesc"
+    TranslatableKeyDesc: "fluffCore.eggHatDesc"
     Lore:
       - "&r"
       - "&fWhat better than Scrambled?"
