@@ -14,6 +14,7 @@ Hats:
     CustomModel: 15
     Name: "&e&lCuddly Kitty Cat Hat"
     TranslatableKey: "fluffCore.catHat"
+    TranslatableKeyDesc: "fluffCore.catHatDesc"
     Lore:
       - "&r"
       - "&fA nice cuddly kitty cat"
@@ -23,6 +24,7 @@ Hats:
     CustomModel: 16
     Name: "&e&lStrawberry Hat"
     TranslatableKey: "fluffCore.strawberryHat"
+    ranslatableKeyDesc: "fluffCore.strawberryHatDesc"
     Lore:
       - "&r"
       - "&fEver feel like your life doesn't have"
@@ -32,6 +34,7 @@ Hats:
     CustomModel: 17
     Name: "&e&lEgg Hat"
     TranslatableKey: "fluffCore.eggHat"
+    TranslatableKey: "fluffCore.eggHatDesc"
     Lore:
       - "&r"
       - "&fWhat better than Scrambled?"
