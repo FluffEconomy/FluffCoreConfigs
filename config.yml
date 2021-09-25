@@ -4,8 +4,6 @@ Hats:
     CustomModel: 14
     Name: "&d&lGrand Reopening Hat"
     TranslatableKey: "fluffCore.cakeHat"
-    TranslatableKeyDesc: "fluffCore.cakeHatDesc"
-    TranslatableKeyDesc1: "fluffCore.cakeHatDesc1"
     Lore:
       - "&r"
       - "&fGotten from the 2021"
@@ -15,8 +13,6 @@ Hats:
     CustomModel: 15
     Name: "&e&lCuddly Kitty Cat Hat"
     TranslatableKey: "fluffCore.catHat"
-    TranslatableKeyDesc: "fluffCore.catHatDesc"
-    TranslatableKeyDesc1: ""
     Lore:
       - "&r"
       - "&fA nice cuddly kitty cat"
@@ -25,8 +21,6 @@ Hats:
   Strawberry:
     CustomModel: 16
     Name: "&e&lStrawberry Hat"
-    TranslatableKey: "fluffCore.strawberryHat"
-    TranslatableKeyDesc: "fluffCore.strawberryHatDesc"
     TranslatableKeyDesc1: ""
     Lore:
       - "&r"
@@ -37,8 +31,6 @@ Hats:
     CustomModel: 17
     Name: "&e&lEgg Hat"
     TranslatableKey: "fluffCore.eggHat"
-    TranslatableKeyDesc: "fluffCore.eggHatDesc"
-    TranslatableKeyDesc1: ""
     Lore:
       - "&r"
       - "&fWhat better than Scrambled?"
