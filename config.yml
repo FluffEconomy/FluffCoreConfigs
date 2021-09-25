@@ -21,7 +21,7 @@ Hats:
   Strawberry:
     CustomModel: 16
     Name: "&e&lStrawberry Hat"
-    TranslatableKeyDesc1: ""
+    TranslatableKey: "fluffCore.strawberryHat"
     Lore:
       - "&r"
       - "&fEver feel like your life doesn't have"
