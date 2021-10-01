@@ -36,5 +36,70 @@ Hats:
       - "&fWhat better than Scrambled?"
       - "&fOvereasy & Sunny Side Up!"
       - "&r"
-      
-      
+ # Cowboy Hats
+  BlackCowboy:
+    CustomModel: 18
+    TranslatableKey: "fluffCore.blackCowBoy"
+    Lore:
+      - "&r"
+      - "&fA trusted hat that attracts"
+      - "&fTumbleweed from all around!"
+      - "&r"
+  BrownCowboy:
+    CustomModel: 21
+    TranslatableKey: "fluffCore.brownCowBoy"
+    Lore:
+      - "&r"
+      - "&fA trusted hat that attracts"
+      - "&fTumbleweed from all around!"
+      - "&r"
+ # Cats
+   BlackCat:
+    CustomModel: 34
+    TranslatableKey: "fluffCore.blackCat"
+    Lore:
+      - "&r"
+      - "&fA black cat is a purrfect cat"
+      - "&fespically around Halloween!"
+      - "&r"
+   GrayCat:
+    CustomModel: 35
+    TranslatableKey: "fluffCore.grayCat"
+    Lore:
+      - "&r"
+      - "&fA gray cat is a purrfect cat"
+      - "&fto have with you!"
+      - "&r"
+   SpottedCat:
+    CustomModel: 37
+    TranslatableKey: "fluffCore.spottedCat"
+    Lore:
+      - "&r"
+      - "&fA spotted cat is a purrfect cat"
+      - "&fto have with you!"
+      - "&r"
+   BritishBlueCat:
+    CustomModel: 38
+    TranslatableKey: "fluffCore.britishBlueCat"
+    Lore:
+      - "&r"
+      - "&fA british blue cat is a purrfect cat"
+      - "&fto have with you!"
+      - "&r"
+   OcelotCat:
+    CustomModel: 39
+    TranslatableKey: "fluffCore.ocelotCat"
+    Lore:
+      - "&r"
+      - "&fA ocelot cat is a purrfect cat"
+      - "&fto have with you!"
+      - "&r"
+ # Misc Hats
+  Bucket:
+    CustomModel: 22
+    TranslatableKey: "fluffCore.bucket"
+    Lore:
+      - "&r"
+      - "&fYour bucket hat, after all,"
+      - "&fWhat other hats do you need?"
+      - "&r"
