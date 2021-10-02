@@ -54,7 +54,7 @@ Hats:
       - "&fTumbleweed from all around!"
       - "&r"
  # Cats
-   BlackCat:
+  BlackCat:
     CustomModel: 34
     TranslatableKey: "fluffCore.blackCat"
     Lore:
@@ -62,7 +62,7 @@ Hats:
       - "&fA black cat is a purrfect cat"
       - "&fespically around Halloween!"
       - "&r"
-   GrayCat:
+  GrayCat:
     CustomModel: 35
     TranslatableKey: "fluffCore.grayCat"
     Lore:
@@ -70,7 +70,7 @@ Hats:
       - "&fA gray cat is a purrfect cat"
       - "&fto have with you!"
       - "&r"
-   SpottedCat:
+  SpottedCat:
     CustomModel: 37
     TranslatableKey: "fluffCore.spottedCat"
     Lore:
@@ -78,7 +78,7 @@ Hats:
       - "&fA spotted cat is a purrfect cat"
       - "&fto have with you!"
       - "&r"
-   BritishBlueCat:
+  BritishBlueCat:
     CustomModel: 38
     TranslatableKey: "fluffCore.britishBlueCat"
     Lore:
@@ -86,7 +86,7 @@ Hats:
       - "&fA british blue cat is a purrfect cat"
       - "&fto have with you!"
       - "&r"
-   OcelotCat:
+  OcelotCat:
     CustomModel: 39
     TranslatableKey: "fluffCore.ocelotCat"
     Lore:
