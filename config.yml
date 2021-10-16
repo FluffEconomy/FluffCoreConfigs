@@ -1,3 +1,19 @@
+TipsList:
+  - "&7Tip #1: Stuck? Visit the Fluff Economy Tiktok page for tips and tricks! &o(craftinators)"
+  - "&7Tip #2: Looking to make money? Try /jobs and pick up to 3 that suit your needs. &o(Devox)"
+  - "&7Tip #3: Don't like your job? Remember that you can always swap between them. Just remember you lose the progress on your previous job! &o(Devox)"
+  - "&7Tip #4: Don't know what a custom enchantment does? Do /enchantinfo [enchant] to get information on it! &o(craftinators)"
+  - "&7Tip #5: Want to be more involved with the community? Do /discord to join the Fluff Economy Discord! (Moofins)"
+  - "&7Tip #6: Want to get more chunks for your town? You can buy some with /town buy bouns [amount]! &o(craftinators)"
+  - "&7Tip #7: Did you know FluffEconomy has their own real time map? Simply do /map and take a peek at what's happening around the world! &o(Devox)"
+  - "&7Tip #8: You own an item yet you can't remember how to make it? try /recipe while holding that item! &o(Devox)"
+  - "&7Tip #9: Trying to make a quick buck? Try your luck with /ah &o(Devox)"
+  - "&7Tip #10: Remember to take breaks! (craftinators)"
+  - "&7Tip #11: Want to level up your experience? Check out the online store with &a/store"
+  - "&7Tip #12: Want to purchase cosmetics for your character? Check out &d/gems"
+  - "&7Tip #13: There are limited time quests you can partake in! Check #Events on discord!"
+  - "&7Tip #14: A big project is best done in little pieces!"
+  - "&7Tip #15: FluffEconomy was originally a government-style server!"
 # Command: fluffcore hats HatName UserName
 Hats:
   Cake:
